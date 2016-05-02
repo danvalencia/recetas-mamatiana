@@ -1,7 +1,7 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://danvalencia.github.io/"
 languageCode = "es-mx"
 title = "Recetas de la Mamatiana"
-theme = "hugo-material-docs"
+theme = "hugo-theme-bleak"
 metadataformat = "yaml"
 canonifyurls = true
 # Enable Google Analytics by entering your tracking id
